@@ -5,7 +5,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 
 ## Group members and roles
 - Product Owner: Zainab Rajab  
-- Scrum Master: Carlos Peter  
+- Scrum Master: Carlos Kalolo  
 - Developer 1: Asia  
 - Developer 2: Bosco Fales  
 - Developer 3: Selestine John
