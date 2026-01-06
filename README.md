@@ -13,10 +13,10 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 | Carlos Peter |  | Scrum Master |
 |Asia  Yasin  |  | Developer1 |
 |Omari Masanyika|.  |Developer 2|
-|Wendypeace|.  |Developer 3|
-|Zainab Raja|. |Developer 4|
-|Selestine John|.  Developer 5|
-|Trustgod Kombe|. |Developer 6|
+|Wendypeace| |Developer 3|
+|Zainab Raja| |Developer 4|
+|Selestine John| |Developer 5|
+|Trustgod Kombe| |Developer 6|
 
 
 ## Sprint Objective
