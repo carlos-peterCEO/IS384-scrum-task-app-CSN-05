@@ -6,7 +6,7 @@
 This project simulates a one-sprint Scrum workflow for developing a cloud-based task management application. The application allows users to create tasks, assign them to users, and track task completion.
 
 ## Scrum Team and Roles
-- Product Owner: Bosco Fales  
+- Product Owner: Bosco Washa. 
 - Scrum Master: Carlos Peter  
 - Developer 1: Asia  Yasin
 - Developer 2: Omary  
