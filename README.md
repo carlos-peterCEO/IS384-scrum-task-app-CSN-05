@@ -19,15 +19,6 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 |Trustgod Kombe|. |Developer 6|
 
 
-- Product Owner: Bosco Washa. 
-- Scrum Master: Carlos Peter  
-- Developer 1: Asia  Yasin
-- Developer 2: Omari Masanyika  
-- Developer 3: Wendypeace  
-- Developer 4: Zainab Raja  
-- Developer 5: Selestine John  
-- Developer 6: Trustgod Kombe  
-
 ## Sprint Objective
 The objective of this sprint is to deliver the core task management features, including task creation, assignment, completion tracking, and notifications.
 
