@@ -6,7 +6,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 ## Group members and roles
 - Product Owner: Zainab Rajab  
 - Scrum Master: Carlos Kalolo  
-- Developer 1: Asia  
+- Developer 1: Asia  Yasin
 - Developer 2: Bosco Fales  
 - Developer 3: Selestine John
 - Developer 4: Omary  
@@ -16,7 +16,8 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 
 ## Scrum Events
 - **Sprint Planning:**  
-  The team meets at the beginning of the sprint to review the product backlog, select items to work on, and define the sprint goal.
+  The team meets at the beginning of the sprint to review the product backlog, select items to work on, and define the sprint goal.This meeting ensures everyone understands the scope of work and how it will be accomplished.
+
 
 - **Daily Scrum:**  
   A short daily meeting where team members discuss what was done, what will be done next, and any blockers affecting progress.
