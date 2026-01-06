@@ -7,16 +7,16 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 
 ## Scrum Team and Roles
 
-| Name | Registration Number | Scrum Role |
-|------|---------------------|------------|
-|Bosco Washa | 30841/T.2023 | Product Owner |
-| Carlos Peter |  | Scrum Master |
-|Asia  Yasin  |  | Developer1 |
-|Omari Masanyika| 30736/T.2023 |Developer 2|
-|Wendypeace| |Developer 3|
-|Zainab Raja| |Developer 4|
-|Selestine John| |Developer 5|
-|Trustgod Kombe| |Developer 6|
+|S/N|Full Name | Registration Number | Scrum Role |
+|----|------|---------------------|------------|
+|1|Bosco Washa | 30841/T.2023 | Product Owner |
+|2| Carlos Peter |  | Scrum Master |
+|3|Asia  Yasin  |  | Developer1 |
+|4|Omari Masanyika| 30736/T.2023 |Developer 2|
+|5|Wendypeace| |Developer 3|
+|6|Zainab Raja| |Developer 4|
+|7|Selestine John| |Developer 5|
+|8|Trustgod Kombe| |Developer 6|
 
 
 ## Sprint Objective
