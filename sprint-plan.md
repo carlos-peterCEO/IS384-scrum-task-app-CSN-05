@@ -1,17 +1,23 @@
 # Sprint Plan
 
 ## 1. Product Backlog
-1. Create a new task
-2. Assign a task to a user
-3. Mark task as completed
-4. Display list of tasks
-5. Send task notifications
+
+1. Add a new task to the System. 
+2. Assign a task to a specific user. 
+3. Mark a task as completed.
+4. Display a list of all tasks  
+5. Send notifications for task updates  
+
 
 ## 2. Sprint Goal
-To develop the core functionality of the task management app that allows users to create, assign, and track tasks effectively.
+
+The goal of this sprint is to develop the core functionality of the cloud-based task management application, enabling users to create, assign, and track tasks efficiently.
 
 ## 3. Definition of Done (DoD)
-- Code changes are committed to the GitHub repository
-- Features work as expected
-- Pull request is reviewed and merged
-- Documentation is updated
+
+A task is considered complete when:
+- Code changes are pushed to the GitHub repository  
+- The feature works as expected without errors  
+- A pull request is reviewed and merged into the main branch  
+- Documentation is updated where necessary  
+
