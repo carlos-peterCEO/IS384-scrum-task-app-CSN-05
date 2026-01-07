@@ -15,7 +15,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 |4|Omari Masanyika| 30736/T.2023 |Developer 2|
 |5|Wendypeace| |Developer 3|
 |6|Zainabu Khamisi|30679/T.2023 |Developer 4|
-|7|Selestine John| |Developer 5|
+|7|Selestine John|30815/T.2023 |Developer 5|
 |8|Trustgod Kombe| |Developer 6|
 
 
