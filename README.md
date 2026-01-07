@@ -11,7 +11,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 |----|------|---------------------|------------|
 |1|Bosco Washa | 30841/T.2023 | Product Owner |
 |2| Carlos Peter |  | Scrum Master |
-|3|Asia  Yasin  |  | Developer1 |
+|3|Asia  Yasin  | 30773/T.2023 | Developer1 |
 |4|Omari Masanyika| 30736/T.2023 |Developer 2|
 |5|Wendypeace| |Developer 3|
 |6|Zainabu Khamisi|30679/T.2023 |Developer 4|
