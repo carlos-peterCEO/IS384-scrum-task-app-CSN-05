@@ -13,7 +13,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 |2| Carlos Peter |  | Scrum Master |
 |3|Asia  Yasin  | 30773/T.2023 | Developer1 |
 |4|Omari Masanyika| 30736/T.2023 |Developer 2|
-|5|Wendypeace| |Developer 3|
+|5|Wendypeace Jesse| 30992/T.2023 |Developer 3|
 |6|Zainabu Khamisi|30679/T.2023 |Developer 4|
 |7|Selestine John| |Developer 5|
 |8|TrustGod Kombe|31586/T.2023 |Developer 6|.
@@ -39,5 +39,5 @@ Each team member works on an individual feature branch, makes at least one commi
 - John Doe – Product Owner  
 - Carlos Peter – Scrum Master  
 - selestine john-developer 1
-- Wendypeace Jesse - Developer 2
+- Wendypeace Jesse - Developer 3
 
