@@ -16,7 +16,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 |5|Wendypeace| |Developer 3|
 |6|Zainab Raja| |Developer 4|
 |7|Selestine John| |Developer 5|
-|8|Trustgod Kombe| |Developer 6|
+|8|Trustgod Kombe|31586/T.2023 |Developer 6|
 
 
 ## Sprint Objective
