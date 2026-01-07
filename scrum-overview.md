@@ -9,7 +9,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 - Developer 1: Asia  Yasin
 - Developer 2: Omari masanyika 
 - Developer 3: Wendypeace
-- Developer 4: Zainab Rajab
+- Developer 4: Zainab Khamisi
 - Developer 5: Selestine John
 - Developer 6: Trustgod Kombe
   
