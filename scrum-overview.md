@@ -8,6 +8,10 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 - Scrum Master: Carlos Kalolo  
 - Developer 1: Asia  Yasin
 - Developer 2: Omari masanyika 
+- Developer 3: Wendypeace
+- Developer 4: Zainab Rajab
+- Developer 5: Selestine John
+- Developer 6: Trustgod Kombe
 - Developer 3: Wendypeace Jesse
 - Developer 4: Zainab Khamisi
 - Developer 5: Selestine John
@@ -20,6 +24,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 
 
 - **Daily Scrum:**  
+  A short daily meeting where team members discuss what was done, what will be done next, and any blockers affecting progress.
   A short daily meeting where team members discuss what was done, what will be done next, and any blockers affecting progress.for example Developer 6
 “Yesterday I finished the login screen. Today I will start implementing password validation. I’m blocked because I’m waiting for the API details
 
